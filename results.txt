@@ -1,0 +1,27 @@
+Results:
+========
+> source('~/Desktop/research/linjat/linjat.R')
+
+
+[1] "1000 Trials 617 Success 383 Failures"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   7.00   12.00   15.00   16.22   19.00   50.00 
+[1] "Mean 16.2220421393841"
+[1] "Sigma 5.33862734481372"
+[1] "Probability: 0.5"
+
+
+[1] "1000 Trials 609 Success 391 Failures"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   7.00   17.00   21.00   22.72   27.00   65.00 
+[1] "Mean 22.7159277504105"
+[1] "Sigma 8.38837850337144"
+[1] "Probability: 0.3"
+
+
+[1] "1000 Trials 549 Success 451 Failures"
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   7.00   13.00   16.00   17.32   20.00   54.00 
+[1] "Mean 17.3187613843352"
+[1] "Sigma 6.83795984292074"
+[1] "Probability: 0.8"
